@@ -13,6 +13,6 @@ py==1.11.0
 pyparsing==3.0.9
 pytest==7.0.1
 tomli==1.2.3
-typing_extensions==4.1.1
+typing-extensions==4.1.1
 Werkzeug==2.0.3
 zipp==3.6.0
